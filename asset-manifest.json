@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f_lab7_io42_tatarchuk/static/css/main.975fc492.css",
+    "main.js": "/f_lab7_io42_tatarchuk/static/js/main.5e624d1a.js",
+    "index.html": "/f_lab7_io42_tatarchuk/index.html",
+    "main.975fc492.css.map": "/f_lab7_io42_tatarchuk/static/css/main.975fc492.css.map",
+    "main.5e624d1a.js.map": "/f_lab7_io42_tatarchuk/static/js/main.5e624d1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.975fc492.css",
+    "static/js/main.5e624d1a.js"
+  ]
+}
