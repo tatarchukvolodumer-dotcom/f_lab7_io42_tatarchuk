@@ -1,13 +1,19 @@
 {
   "files": {
     "main.css": "/f_lab7_io42_tatarchuk/static/css/main.975fc492.css",
-    "main.js": "/f_lab7_io42_tatarchuk/static/js/main.f853e37d.js",
+    "main.js": "/f_lab7_io42_tatarchuk/static/js/main.e741674d.js",
+    "static/media/blackbook.jpeg": "/f_lab7_io42_tatarchuk/static/media/blackbook.cd7560c503f56bdd3edb.jpeg",
+    "static/media/servitor.jpeg": "/f_lab7_io42_tatarchuk/static/media/servitor.29862f9a4c9d82f8d09e.jpeg",
+    "static/media/lvivske.jpeg": "/f_lab7_io42_tatarchuk/static/media/lvivske.9aa789e909c1489f1b2a.jpeg",
+    "static/media/frostmourne.jpeg": "/f_lab7_io42_tatarchuk/static/media/frostmourne.f98973a5fc0dc68dc7b5.jpeg",
+    "static/media/bhaal.jpeg": "/f_lab7_io42_tatarchuk/static/media/bhaal.af27d551313cc6b3847d.jpeg",
+    "static/media/guldan.jpeg": "/f_lab7_io42_tatarchuk/static/media/guldan.170118cacf51e790257f.jpeg",
     "index.html": "/f_lab7_io42_tatarchuk/index.html",
     "main.975fc492.css.map": "/f_lab7_io42_tatarchuk/static/css/main.975fc492.css.map",
-    "main.f853e37d.js.map": "/f_lab7_io42_tatarchuk/static/js/main.f853e37d.js.map"
+    "main.e741674d.js.map": "/f_lab7_io42_tatarchuk/static/js/main.e741674d.js.map"
   },
   "entrypoints": [
     "static/css/main.975fc492.css",
-    "static/js/main.f853e37d.js"
+    "static/js/main.e741674d.js"
   ]
 }
