@@ -50,3 +50,33 @@ const goodsList = [
     image: lvivskeImg,
   },
 ];
+
+function App() {
+  return (
+    <div className="app-container">
+      {/* Завдання 1 */}
+      <Header />
+      <Content />
+      <Image />
+
+      <hr className="divider" />
+
+      {/* Завдання 2 */}
+      <section className="goods-section">
+        <h2>Крамниця артефактів та провізії</h2>
+        <div className="goods-grid">
+          {goodsList.map((item) => (
+            <GoodsCard
+              key={item.id}
+              image={item.image}
+              title={item.title}
+              price={item.price}
+            />
+          ))}
+        </div>
+      </section>
+    </div>
+  );
+}
+
+export default App;
